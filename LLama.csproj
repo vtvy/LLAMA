@@ -7,8 +7,9 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="LLamaSharp" Version="0.8.0" />
-    <PackageReference Include="LLamaSharp.Backend.Cuda11" Version="0.8.0" />
+    <PackageReference Include="LLamaSharp" Version="0.8.1" />
+    <PackageReference Include="LLamaSharp.Backend.Cuda11" Version="0.8.1" />
+    <PackageReference Include="pythonnet" Version="3.0.3" />
     <PackageReference Include="System.Numerics.Tensors" Version="8.0.0" />
   </ItemGroup>
 </Project>
